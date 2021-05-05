@@ -1,0 +1,59 @@
+
+h1 {
+  background-color: greenyellow;
+  text-align: center;
+  border: outset;
+  }
+
+img{
+  height: 120px;
+  width: 120px;
+}
+
+p {
+  color: rgb(36, 29, 29);
+  background-color: rgb(219, 139, 139);
+  font-family: URW Chancery L, cursive;
+  font-size: 20px;
+  border: grove;
+  
+}
+
+h2 {
+  text-decoration-line: underline;
+  color: purple;
+  background-color: greenyellow;
+  border: dashed;
+  border-width: 3px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.section1 ul{
+  font-size: 18px;
+  background-color: rgb(230, 175, 220);
+  border: outset;
+  
+}
+.section2 ol{
+  font-size: 18px;
+  background-color: rgb(144, 225, 231);
+  border: outset;
+ }
+
+ .section3 ul{
+   font-size: 18px;
+   background-color: gold;
+   border: outset;
+ }
+
+ .section4 ul{
+   font-size: 18px;
+   background-color: khaki;
+   border: outset;
+ }
+
+ .section5 ul{
+   font-size: 18px;
+   background-color: burlywood;
+   border: outset;
+ }
